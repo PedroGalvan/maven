@@ -34,7 +34,7 @@
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
                 <version>3.3</version>
-                <çverbose>true</verbose>
+                <verbose>true</verbose>
             </plugin>
         </plugins>
     </build>
